@@ -1,0 +1,14 @@
+C:\Users\Oak Soe Aung\Development\Learning\DependencyInjection\Example1\bin\Debug\net9.0\Example1.exe
+C:\Users\Oak Soe Aung\Development\Learning\DependencyInjection\Example1\bin\Debug\net9.0\Example1.deps.json
+C:\Users\Oak Soe Aung\Development\Learning\DependencyInjection\Example1\bin\Debug\net9.0\Example1.runtimeconfig.json
+C:\Users\Oak Soe Aung\Development\Learning\DependencyInjection\Example1\bin\Debug\net9.0\Example1.dll
+C:\Users\Oak Soe Aung\Development\Learning\DependencyInjection\Example1\bin\Debug\net9.0\Example1.pdb
+C:\Users\Oak Soe Aung\Development\Learning\DependencyInjection\Example1\obj\Debug\net9.0\Example1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oak Soe Aung\Development\Learning\DependencyInjection\Example1\obj\Debug\net9.0\Example1.AssemblyInfoInputs.cache
+C:\Users\Oak Soe Aung\Development\Learning\DependencyInjection\Example1\obj\Debug\net9.0\Example1.AssemblyInfo.cs
+C:\Users\Oak Soe Aung\Development\Learning\DependencyInjection\Example1\obj\Debug\net9.0\Example1.csproj.CoreCompileInputs.cache
+C:\Users\Oak Soe Aung\Development\Learning\DependencyInjection\Example1\obj\Debug\net9.0\Example1.dll
+C:\Users\Oak Soe Aung\Development\Learning\DependencyInjection\Example1\obj\Debug\net9.0\refint\Example1.dll
+C:\Users\Oak Soe Aung\Development\Learning\DependencyInjection\Example1\obj\Debug\net9.0\Example1.pdb
+C:\Users\Oak Soe Aung\Development\Learning\DependencyInjection\Example1\obj\Debug\net9.0\Example1.genruntimeconfig.cache
+C:\Users\Oak Soe Aung\Development\Learning\DependencyInjection\Example1\obj\Debug\net9.0\ref\Example1.dll
