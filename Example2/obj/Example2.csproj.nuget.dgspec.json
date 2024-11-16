@@ -1,18 +1,19 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Oak Soe Aung\\Development\\Learning\\DependencyInjection\\Example2\\Example2.csproj": {}
+    "C:\\Users\\Oak Soe Aung\\Development\\Repository\\DependencyInjection\\Example2\\Example2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Oak Soe Aung\\Development\\Learning\\DependencyInjection\\Example2\\Example2.csproj": {
+    "C:\\Users\\Oak Soe Aung\\Development\\Repository\\DependencyInjection\\Example2\\Example2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Oak Soe Aung\\Development\\Learning\\DependencyInjection\\Example2\\Example2.csproj",
+        "projectUniqueName": "C:\\Users\\Oak Soe Aung\\Development\\Repository\\DependencyInjection\\Example2\\Example2.csproj",
         "projectName": "Example2",
-        "projectPath": "C:\\Users\\Oak Soe Aung\\Development\\Learning\\DependencyInjection\\Example2\\Example2.csproj",
+        "projectPath": "C:\\Users\\Oak Soe Aung\\Development\\Repository\\DependencyInjection\\Example2\\Example2.csproj",
         "packagesPath": "C:\\Users\\Oak Soe Aung\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Oak Soe Aung\\Development\\Learning\\DependencyInjection\\Example2\\obj\\",
+        "outputPath": "C:\\Users\\Oak Soe Aung\\Development\\Repository\\DependencyInjection\\Example2\\obj\\",
         "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
         "configFilePaths": [
           "C:\\Users\\Oak Soe Aung\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
